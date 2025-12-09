@@ -17,10 +17,8 @@ Quantitative Analyst & Risk Specialist with 7+ years in credit risk modeling, qu
 Decentralized finance (DeFi), yield optimization, blockchain data analytics, crypto risk management.
 
 ## Featured Projects
-(Pin your best repos and link them here with brief descriptions)
-- [Project 1]: Credit Risk Model – Python-based scorecard improving accuracy.
-- [Project 2]: Dashboard Portfolio – Interactive visualizations for risk insights.
-- [Add more crypto-related experiments if available]
+- dcf_cashflow_tool
+- crytocurrency_predictor
 
 ## Connect
 - Email: 
