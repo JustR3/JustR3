@@ -1,6 +1,6 @@
 # Hi, I'm JustRa 👋
 
-Quantitative Analyst & Risk Specialist with over 7 years in credit risk modeling, quantitative analysis, and data-driven insights in traditional finance. Passionate about transitioning to **crypto/DeFi**, blockchain analytics, and quantitative roles in web3.
+Quantitative Analyst & Risk Specialist with over 7 years in credit risk modeling, quantitative analysis, and data-driven insights in traditional finance. Passionate about data driven analytics and modelling in TradFi and DeFi.
 
 ## About Me
 - Expertise in P&L, balance sheet analysis, statistical modeling, time-series forecasting, and risk management.
@@ -10,10 +10,10 @@ Quantitative Analyst & Risk Specialist with over 7 years in credit risk modeling
 ## Core Skills
 - **Languages/Tools**: Python, SQL, R, Excel, Tableau, Power BI
 - **Domains**: Quantitative Risk Modeling, Credit Scoring, Statistical Analysis, Data Visualization, FP&A
-- **Certifications**: Data Scientist with Python (DataCamp), FRM (in progress), CFA Level 1 (pursuing)
+- **Certifications**: Data Scientist with Python (DataCamp), CFA Level 1 (pursuing), FRM (evaluation)
 
 ## Interests
-Decentralized finance (DeFi), yield optimization, leveraged looping, blockchain data analytics, crypto risk management.
+TradFi and DeFi topics including automated trading strategies, yield optimization, leveraged looping, blockchain data analytics, risk management.
 
 ## Featured Projects
 - dcf_cashflow_tool
