@@ -1,4 +1,4 @@
-# Hi, I'm JustRa 👋
+# Hi, I'm Just R3 👋
 
 Quantitative Analyst & Risk Specialist with over 7 years in credit risk modeling, quantitative analysis, and data-driven insights in traditional finance. Passionate about data driven analytics and modelling in TradFi and DeFi.
 
