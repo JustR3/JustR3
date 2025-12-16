@@ -29,11 +29,11 @@ I build quantitative systems that bridge finance and technology. My work spans c
 
 ## Technical Stack
 
-![Skills](https://skills.syvixor.com/api/icons?i=python,r,sql,postgresql,git,github,cursor,vscode,jupyter,linux&perline=10)
+![Skills](https://skills.syvixor.com/api/icons?i=python,r,sql,postgresql,git,github,cursor,vscode,jupyter,docker,linux,bash,powershell&perline=10)
 
 **Finance & Quantitative Analysis**  
 ![Skills](https://skills.syvixor.com/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,plotly,pytorch,tensorflow&perline=10)
 
 **Blockchain & Web3**  
-![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,mongodb,bash&perline=3)
+![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,mongodb&perline=3)
 
