@@ -35,5 +35,5 @@ I build quantitative systems that bridge finance and technology. My work spans c
 ![Skills](https://skills.syvixor.com/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,plotly,pytorch,tensorflow&perline=10)
 
 **Blockchain & Web3**  
-![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,etherscan,mongodb&perline=3)
+![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,mongodb,bash&perline=3)
 
