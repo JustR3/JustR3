@@ -32,45 +32,8 @@ I build quantitative systems that bridge finance and technology. My work spans c
 ![Skills](https://skills.syvixor.com/api/icons?i=python,r,sql,postgresql,git,github,cursor,vscode,jupyter,linux&perline=10)
 
 **Finance & Quantitative Analysis**  
-![Skills](https://skills.syvixor.com/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,plotly,pytorch,tensorflow&perline=6)
+![Skills](https://skills.syvixor.com/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,plotly,pytorch,tensorflow&perline=10)
 
 **Blockchain & Web3**  
 ![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,etherscan,mongodb&perline=3)
 
-**Specialized Tools**:  TradingView • yfinance • Dune Analytics • Etherscan API
-
----
-
-## Professional Development & Certifications
-
-**DataCamp Professional Data Scientist** | [View Certificate](./certificates/datacamp-professional-data-scientist.pdf)  
-Completed 300+ hours across multiple advanced tracks:
-- Python Programming (Advanced)
-- Machine Learning Fundamentals & Advanced ML
-- Statistics & Probability
-- Financial Analysis in Python
-- Time Series Analysis
-- Data Engineering
-
-**Continuous Learning**
-- Quantitative finance and derivatives pricing
-- Statistical modeling and Bayesian methods
-- Machine learning engineering for production systems
-- DeFi protocols and blockchain analytics
-- Algorithmic trading strategy development
-
-**Technical Writing & Knowledge Sharing**
-- Active contributor to quantitative finance discussions
-- Building open-source tools for financial analysis
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-
----
-
-<div align="center">
-<i>Seeking opportunities where quantitative rigor meets financial innovation</i>
-</div>
