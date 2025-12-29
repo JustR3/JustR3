@@ -1,16 +1,20 @@
-# Quantitative Finance • ML/AI
+# Hi I'm Just R3! 
 
-Finance professional focused on quantitative methods and ML/AI applications. Interested in building insights from data. Statistical distributions nerd. 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Quantitative+Analyst;AI/ML+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
+
+I like Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
 ---
 
-## Technical Stack
-
-![Skills](https://skills.syvixor.com/api/icons?i=python,r,sql,postgresql,git,github,cursor,vscode,jupyter,docker,linux,bash,powershell&perline=10)
-
-**Finance & Quantitative Analysis**  
-![Skills](https://skills.syvixor.com/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,plotly,pytorch,tensorflow&perline=10)
-
-**Blockchain & Web3**  
-![Skills](https://skills.syvixor.com/api/icons?i=ethereum,solidity,mongodb&perline=3)
+## 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,git,github,md,streamlit,vscode,docker" />
+  </a>
+</p>
 
