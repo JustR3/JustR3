@@ -7,7 +7,7 @@
 </p>
 
 
-Playin with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
+Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
 ---
 
