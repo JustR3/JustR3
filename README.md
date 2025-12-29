@@ -10,8 +10,6 @@ Playing with Quantitative Finance and ML/AI applications. Interested in building
 
 [![DataCamp](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)]
 
-<img src="(https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)" width="200" alt="DataCamp Professional Data Scientist" />
-
 ---
 
 ### 🛠 Tech Stack
