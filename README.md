@@ -2,12 +2,12 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Quantitative+Analyst;AI/ML+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Quantitative+Analyst;AI/ML+Engineer;Vibe+Coder;On-chain+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
 
-I like Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
+Playin with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
 ---
 
