@@ -8,15 +8,14 @@
 
 <table>
 <tr>
-  <td width="70%">
-    <em>Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.</em>
+  <td width="75%" valign="middle">
+    Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
   </td>
-  <td width="30%" align="right">
-    <img src="[YOUR_DATACAMP_PNG_URL](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)" width="120" height="60" alt="DataCamp Professional Data Scientist" />
+  <td width="25%" align="center" valign="middle">
+    <img src="https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png" width="100" alt="DataCamp Professional Data Scientist" />
   </td>
 </tr>
 </table>
-
 
 ---
 
