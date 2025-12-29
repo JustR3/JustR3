@@ -14,7 +14,7 @@ I like Quantitative Finance and ML/AI applications. Interested in building insig
 ## 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,git,github,md,streamlit,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,git,github,md,vscode,cursor,docker,tensorflow,pytorch" />
   </a>
 </p>
 
