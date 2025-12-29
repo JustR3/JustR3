@@ -14,9 +14,10 @@ Playin with Quantitative Finance and ML/AI applications. Interested in building 
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,git,github,md,vscode,docker,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=py,r,postgres,git,github,gcp,bash,md,vscode,docker,anaconda,tensorflow,pytorch,latex,sublime,supabase&perline=8" />
   </a>
 </p>
 
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustR3&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000)
+
