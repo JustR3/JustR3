@@ -6,9 +6,17 @@
   </a>
 </p>
 
-Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
+<table>
+<tr>
+  <td width="70%">
+    <em>Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.</em>
+  </td>
+  <td width="30%" align="right">
+    <img src="[YOUR_DATACAMP_PNG_URL](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)" width="120" height="60" alt="DataCamp Professional Data Scientist" />
+  </td>
+</tr>
+</table>
 
-![DataCamp](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)
 
 ---
 
