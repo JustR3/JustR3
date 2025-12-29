@@ -8,7 +8,9 @@
 
 Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
-[![DataCamp](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)](https://www.datacamp.com/certificate/DS0026129492201)
+[![DataCamp](https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)]
+
+<img src="(https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png)" width="200" alt="DataCamp Professional Data Scientist" />
 
 ---
 
