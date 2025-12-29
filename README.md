@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
 ---
@@ -19,5 +18,5 @@ Playing with Quantitative Finance and ML/AI applications. Interested in building
 </p>
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustR3&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustR3&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000)
