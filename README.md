@@ -26,6 +26,3 @@
   </a>
 </p>
 
----
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustR3&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000)
