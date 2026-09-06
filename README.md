@@ -18,8 +18,9 @@
 </tr>
 </table>
 
+### Tech Stack
 
-
+Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=py,r,latex" /> </p>
 Data & ML
 
