@@ -1,28 +1,17 @@
 # Hi I'm Just R3! 
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Quantitative+Analyst;AI/ML+Engineer;On-chain+Explorer" alt="Typing SVG" />
-  </a>
-</p>
+<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Quantitative+Analyst;AI/ML+Engineer;On-chain+Explorer" alt="Typing SVG" /> </a> </p>
+Playing with quantitative finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
 
-<table>
-<tr>
-  <td width="75%" valign="middle">
-    Playing with Quantitative Finance and ML/AI applications. Interested in building insights from data. Statistical distributions nerd.
-  </td>
-  <td width="25%" align="center" valign="middle">
-    <img src="https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png" width="100" alt="DataCamp Professional Data Scientist" />
-  </td>
-</tr>
-</table>
+<p align="left"> <img src="https://github.com/JustR3/JustR3/blob/main/DS%20-%20Badge%20with%20outline.png" width="90" alt="DataCamp Professional Data Scientist" /> <br/> <sub>DataCamp Certified: Professional Data Scientist</sub> </p>
+🛠 Tech Stack
+Languages
 
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,r,latex" /> </p>
+Data & ML
 
-### 🛠 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,postgres,git,github,gcp,bash,md,vscode,docker,anaconda,tensorflow,pytorch,latex,sublime,supabase&perline=8" />
-  </a>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,anaconda,tensorflow,pytorch" /> </p>
+Infra & Tools
 
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,gcp,bash,docker,supabase" /> </p>
+Currently: building day-to-day with Claude Code. Testing local models with Ollama on the side.
