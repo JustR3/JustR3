@@ -30,4 +30,4 @@ Infra & Tools
 
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,gcp,bash,docker,supabase" /> </p>
-Currently: building day-to-day with Claude Code. Testing local models with Ollama on the side.
+Building with Claude Code. Testing local models with Ollama.
